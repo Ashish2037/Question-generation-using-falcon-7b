@@ -1,0 +1,23 @@
+# Speech Recognition
+SpeechRecognition==3.8.1
+
+# Sentence Transformers
+sentence-transformers==2.1.0
+
+# LangChain
+langchain==0.1.1
+
+# Scikit-Learn
+scikit-learn==0.24.2
+
+# Transformers
+transformers==4.11.3
+
+# gTTS (Google Text-to-Speech)
+gTTS==2.2.2
+
+# Pygame
+pygame==2.1.0
+
+# Other
+pydub==0.25.1
